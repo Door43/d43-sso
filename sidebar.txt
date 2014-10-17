@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sso:home|Door43 (sso)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sso|d43-sso repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sso/archive/master.zip|d43-sso.zip]]
+
+**Recent Changes**
+{{changes>ns = sso}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sso|Ethnologue data]]
+
